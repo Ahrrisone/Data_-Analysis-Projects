@@ -1,8 +1,6 @@
 # Data-Analysis-Projects
 My progress as a Data Analyst
 
-# My GitHub Projects
-
 This repository contains two projects:
 
 ## 🔗 Projects
