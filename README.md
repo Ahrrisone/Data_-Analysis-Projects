@@ -5,5 +5,5 @@ This repository contains two projects:
 
 ## 🔗 Projects
 
-- [Project 1](./nmdprarepresentations/readme.md)
+- [Project 1]([./nmdprarepresentations/readme.md](https://github.com/Ahrrisone/Data-Analysis-Projects/blob/main/nmdpra%20representations/readme.md))
 - [Project 2](./project2/README.md)
