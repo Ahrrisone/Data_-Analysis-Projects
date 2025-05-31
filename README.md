@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-# My progress as a Data Analyst
+ My progress as a Data Analyst
 
 This repository contains two projects:
 
