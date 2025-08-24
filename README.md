@@ -7,4 +7,4 @@ This repository contains Some projects:
 
 - [Nmdpra_Project](https://github.com/Ahrrisone/Data_-Analysis-Projects/tree/main/nmdpra%20representations)
 - [Data Professionals survey](https://github.com/Ahrrisone/Data_-Analysis-Projects/tree/main/Data%20Professional%20Survey)
-- [Furniture Purchase Dataset]()
+- [Furniture Purchase Dataset](https://github.com/Ahrrisone/Data_-Analysis-Projects/tree/main/Furniture%20dataset)
